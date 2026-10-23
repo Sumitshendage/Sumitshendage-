@@ -1,10 +1,10 @@
 <!-- ═══════════════════════════  HEADER  ═══════════════════════════ -->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:0F2027,50:203A43,100:2C5364&fontColor=F8FAFC&text=Sumit%20Shendage&fontSize=56&fontAlign=50&fontAlignY=40&desc=Data%20Analytics%20%E2%80%A2%20Machine%20Learning%20%E2%80%A2%20Python&descSize=18&descAlign=50&descAlignY=62&animation=twinkling" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:0F2027,50:203A43,100:2C5364&fontColor=F8FAFC&text=Sumit%20Shendage&fontSize=56&fontAlign=50&fontAlignY=40&desc=Full%20Stack%20Developer%20%E2%80%A2%20AI%20Integration%20%E2%80%A2%20Web%20Apps&descSize=18&descAlign=50&descAlignY=62&animation=twinkling" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&duration=3200&pause=900&color=2DD4BF&center=true&vCenter=true&multiline=false&width=700&lines=Turning+raw+data+into+decisions+%F0%9F%93%8A;Python+%E2%80%A2+SQL+%E2%80%A2+Pandas+%E2%80%A2+Scikit-Learn;Building+ML+models+that+optimize+for+real+outcomes;B.Tech+CSE+%40+DYPCET+Kolhapur+%E2%80%94+Class+of+2027" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&duration=3200&pause=900&color=2DD4BF&center=true&vCenter=true&multiline=false&width=700&lines=Full+Stack+Developer+%F0%9F%9A%80;React+%E2%80%A2+Node.js+%E2%80%A2+Express+%E2%80%A2+FastAPI+%E2%80%A2+Flask;Building+secure%2C+AI-powered+web+applications;B.Tech+CSE+%40+DYPCET+Kolhapur+%E2%80%94+Class+of+2027" />
 </p>
 
 <p align="center">
@@ -23,46 +23,48 @@
 <tr>
 <td width="58%" valign="top">
 
-I'm a **detail-oriented Data Analytics undergraduate** with a strong focus on **Python and data science** — statistical analysis, data visualization, and data-driven decision-making.
+I'm a **Full Stack Developer** and final-year Computer Science undergraduate who builds **end-to-end web applications**, from responsive React frontends to secure, scalable REST APIs and well-designed databases.
 
-I enjoy building **end-to-end analytics solutions**: cleaning messy datasets, finding the story in the numbers, training machine-learning models for predictive insights, and shipping them as dashboards people can actually use.
+I enjoy integrating **Large Language Models** into real products, designing clean backend architectures, and shipping apps that are fast, safe, and pleasant to use.
 
-- 🎓 B.Tech in Computer Science & Engineering — *Expected May 2027*
-- 🔬 Currently exploring: predictive modeling & cost-sensitive ML
-- 🤝 Open to: **Data Analyst / Data Science internships**
+- 🎓 B.Tech in Computer Science & Engineering, *Expected May 2027*
+- 🔬 Currently exploring: LLM-powered apps, RAG pipelines and AI guardrails
+- 🤝 Open to: **Full Stack / Software Engineering internships and new-grad roles**
 - 📫 Reach me at **Shendagesumit22@gmail.com**
 
 </td>
 <td width="42%" valign="top">
 
-```python
-sumit = {
-    "role":      "Data Analytics Undergrad",
-    "location":  "Kolhapur, India",
-    "languages": ["Python", "Java", "C++"],
-    "data":      ["Pandas", "Scikit-Learn",
-                  "Plotly", "SQL"],
-    "web":       ["Flask", "Node.js",
-                  "React"],
-    "databases": ["MySQL", "MongoDB"],
-    "motto":     "Let the data decide.",
-}
+```javascript
+const sumit = {
+  role:      "Full Stack Developer",
+  location:  "Kolhapur, India",
+  languages: ["JavaScript", "Python",
+              "Java", "C++", "SQL"],
+  frontend:  ["React", "Tailwind CSS"],
+  backend:   ["Node.js", "Express",
+              "FastAPI", "Flask"],
+  databases: ["PostgreSQL", "MySQL",
+              "MongoDB"],
+  ai:        ["LLMs", "LangChain", "RAG"],
+  motto:     "Build it clean. Ship it safe.",
+};
 ```
 
 </td>
 </tr>
 </table>
 
-## 🧰 02 &nbsp;·&nbsp; Toolkit
+## 🧰 02 &nbsp;·&nbsp; Tech Stack
 
 | Category | Technologies |
 | :-- | :-- |
-| **Programming** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) |
-| **Data Science & ML** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white) |
-| **Backend** | ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white) ![REST API](https://img.shields.io/badge/REST%20API-02569B?style=flat-square&logo=fastapi&logoColor=white) ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white) |
-| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-| **Databases** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) |
-| **Tools & DevOps** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) |
+| **Languages** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white) |
+| **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) |
+| **AI Integration** | ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![LLM APIs](https://img.shields.io/badge/LLM_APIs-412991?style=flat-square&logo=openai&logoColor=white) ![RAG](https://img.shields.io/badge/RAG-FF6F00?style=flat-square) |
+| **Tools & DevOps** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) |
 
 ## 🚀 03 &nbsp;·&nbsp; Featured Projects
 
@@ -70,30 +72,34 @@ sumit = {
 <tr>
 <td width="50%" valign="top">
 
-### 💳 Loan Default Risk Prediction & Decisioning System
+### 📚 StudyMate AI: AI-Powered Study Assistant
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square) ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat-square) ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square) ![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=flat-square)
+<a href="https://studymate-ai-tutor.vercel.app/"><img src="https://img.shields.io/badge/Live%20App-View%20Demo-2DD4BF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 
-An ML system that scores borrower risk and picks the approval threshold that **maximizes bank profit** — not just accuracy.
+![React](https://img.shields.io/badge/-React-20232A?style=flat-square) ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square) ![LLM](https://img.shields.io/badge/-LLM_API-412991?style=flat-square) ![Vector DB](https://img.shields.io/badge/-Vector_DB-FF6F00?style=flat-square)
 
-- 🔍 **EDA & feature engineering** on a large historical loan dataset — income, existing debt and loan purpose — to uncover key default drivers
-- 🤖 **Scikit-Learn model** predicting default probability and producing a risk score per borrower
-- 💰 **Profit-optimized threshold** that weighs the cost of false approvals (bad loans) against false rejections (lost good customers)
-- 📊 **Interactive Flask + Plotly dashboard** to filter by risk segment, inspect predictions and flag high-risk applicants in real time
+A full-stack study assistant that turns students' own notes and PDFs into **answers, summaries, quizzes and flashcards**.
+
+- 📄 **Document upload** for notes and PDFs, with Q&A, summaries, quizzes and flashcards generated from the student's own material
+- 🧠 **RAG pipeline**: chunking, embeddings and vector search keep every answer grounded in uploaded content
+- 🔌 **REST APIs** for upload, chat and quiz generation, with source-cited answers and context-aware follow-ups
+- 🎨 **Responsive React UI** for document management, interactive chat and revision
 
 </td>
 <td width="50%" valign="top">
 
-### 🏫 ZP School Website — Kanya Vidya Mandir, Vasagde
+### 🛡️ Text-to-SQL Agent with Guardrails & Hallucination Detection
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square) ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square) ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-D71F00?style=flat-square) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logoColor=black) ![HTML/CSS](https://img.shields.io/badge/-HTML%2FCSS-E34F26?style=flat-square)
+<a href="https://g52-web.vercel.app"><img src="https://img.shields.io/badge/Live%20App-View%20Demo-2DD4BF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 
-A full-stack website for a government school, with public pages and a secure admin panel.
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square) ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square)
 
-- 🌐 **Public pages** for Admissions, Academics, PTA, Gallery, Government Schemes and Contact, plus a password-protected admin panel
-- 🗄️ **Relational schema (SQLAlchemy ORM)** for teachers, announcements, gallery, PTA members/events and admissions — runs on MySQL or SQLite
-- 📝 **Online admission system** and a dynamic PTA module to add, edit and delete members and events from the dashboard
-- 💬 **Rule-based chatbot** with session tracking that answers parent and student queries on admissions, schemes and facilities
+Ask questions in **plain English** and get accurate, **safe** SQL results without writing a single query.
+
+- 💬 **Natural language → SQL**: converts plain-English questions into accurate queries and returns results
+- 🗂️ **Schema-aware prompting**: feeds table and column metadata to the LLM for correct multi-table joins
+- 🔒 **Security guardrails**: read-only `SELECT` only, blocks `DROP` / `DELETE` / `UPDATE`, rejects prompt injection and off-topic input
+- 🧪 **Hallucination detection**: validates SQL against the live schema, catches fake tables or columns, and self-corrects before execution
 
 </td>
 </tr>
@@ -104,14 +110,14 @@ A full-stack website for a government school, with public pages and a secure adm
 > **D.Y. Patil College of Engineering and Technology, Kolhapur**
 > B.Tech in Computer Science & Engineering &nbsp;|&nbsp; *Expected May 2027* &nbsp;|&nbsp; **CGPA 7.34 / 10** (till 5th sem)
 >
-> **Relevant coursework:** Computer Networks · Methodology of Data Analysis using Deep Learning · Data Visualization Techniques · Structured Databases · Non-Structured Databases · Data Structures & Algorithms
+> **Relevant coursework:** Data Structures & Algorithms · Database Management Systems (SQL & NoSQL) · Computer Networks · Web Technologies · Software Engineering · Operating Systems
 
 ## 🏅 05 &nbsp;·&nbsp; Certifications & Achievements
 
 | | Certification | Issued by |
 | :-: | :-- | :-- |
-| 📈 | **Data Science Virtual Internship** — 8 weeks | AICTE · EduSkills |
-| 🧠 | **Certificate of Training Completion in AI** (Jun 2026 – Jul 2026) | Deloitte Solution Pvt. Ltd. |
+| 🧠 | **Certificate of Training Completion in AI** (Jun 2026 – Jul 2026) | Deloitte Solutions Pvt. Ltd. |
+| 📈 | **Data Science Virtual Internship** (8 weeks) | AICTE · EduSkills |
 | 🐍 | **Complete Python With DSA Bootcamp** | Udemy |
 
 ## 📊 06 &nbsp;·&nbsp; GitHub Analytics
@@ -132,7 +138,7 @@ A full-stack website for a government school, with public pages and a secure adm
 ---
 
 <p align="center">
-  <i>“Without data, you're just another person with an opinion.”</i> — W. Edwards Deming
+  <i>"First, solve the problem. Then, write the code."</i> — John Johnson
 </p>
 
 <p align="center">
