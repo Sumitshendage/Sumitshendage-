@@ -1,146 +1,163 @@
-<!-- ═══════════════════════════  HEADER  ═══════════════════════════ -->
+<!-- ═════════════════════════════  HERO  ═════════════════════════════ -->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:0F2027,50:203A43,100:2C5364&fontColor=F8FAFC&text=Sumit%20Shendage&fontSize=56&fontAlign=50&fontAlignY=40&desc=Full%20Stack%20Developer%20%E2%80%A2%20AI%20Integration%20%E2%80%A2%20Web%20Apps&descSize=18&descAlign=50&descAlignY=62&animation=twinkling" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:4F46E5,50:7C3AED,100:DB2777&fontColor=FFFFFF&text=Sumit%20Shendage&fontSize=58&fontAlignY=36&desc=Full%20Stack%20Developer%20%E2%80%A2%20React%20%E2%80%A2%20Node.js%20%E2%80%A2%20FastAPI%20%E2%80%A2%20AI-Powered%20Apps&descSize=17&descAlignY=58&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&duration=3200&pause=900&color=2DD4BF&center=true&vCenter=true&multiline=false&width=700&lines=Full+Stack+Developer+%F0%9F%9A%80;React+%E2%80%A2+Node.js+%E2%80%A2+Express+%E2%80%A2+FastAPI+%E2%80%A2+Flask;Building+secure%2C+AI-powered+web+applications;B.Tech+CSE+%40+DYPCET+Kolhapur+%E2%80%94+Class+of+2027" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=760&lines=%3CFullStackDeveloper+%2F%3E;Frontend+%E2%9E%9C+Backend+%E2%9E%9C+Database+%E2%9E%9C+Deploy;Shipping+secure%2C+AI-powered+web+apps;Open+to+Full+Stack+%2F+SWE+Internships+%26+New-Grad+Roles" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sumit-shendage-0341412b3/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:Shendagesumit22@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/Sumitshendage"><img src="https://img.shields.io/badge/-GitHub-24292F?style=flat-square&logo=github&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/-Kolhapur%2C%20India-2C5364?style=flat-square&logo=googlemaps&logoColor=white" />
-  <img src="https://komarev.com/ghpvc/?username=Sumitshendage&style=flat-square&color=2DD4BF&label=Profile+Views" />
+  <a href="https://www.linkedin.com/in/sumit-shendage-0341412b3/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:Shendagesumit22@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hi-DB2777?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/Sumitshendage"><img src="https://img.shields.io/badge/GitHub-Follow-24292F?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Sumitshendage&style=for-the-badge&color=7C3AED&label=VISITORS" />
+</p>
+
+---
+
+## 👋 Hey, I'm Sumit
+
+I'm a **Full Stack Developer** and final-year **Computer Science** student at **DYPCET, Kolhapur**. I like owning a feature end to end: designing the UI, writing the API behind it, modelling the data, and getting it live.
+
+Lately I've been building **AI-powered web apps**, where an LLM does the heavy lifting but the surrounding engineering (auth, validation, guardrails, grounding) is what keeps it **reliable and safe** for real users.
+
+- 🧩 **Build:** responsive React frontends + REST APIs with Node/Express & FastAPI
+- 🛡️ **Care about:** security, clean architecture and code that's easy to maintain
+- 🌱 **Learning:** system design, scalable backends and production LLM patterns
+- 🎯 **Looking for:** Full Stack / Software Engineering internships & new-grad roles
+- 🎓 **Graduating:** May 2027
+
+---
+
+## 🏗️ How I Build
+
+```mermaid
+flowchart LR
+    A[🎨 UI<br/>React · Tailwind] --> B[🔌 API<br/>Express · FastAPI]
+    B --> C[🔐 Auth & Validation<br/>JWT · Guardrails]
+    C --> D[(🗄️ Data<br/>PostgreSQL · MongoDB)]
+    B --> E[🧠 AI Layer<br/>LLMs · RAG]
+    D --> F[🚀 Ship<br/>Docker · Vercel · CI]
+    E --> F
+```
+
+---
+
+## 🧰 Tech Stack
+
+<table>
+<tr><td align="center" width="140"><b>Languages</b></td>
+<td><img src="https://skillicons.dev/icons?i=js,python,java,cpp,postgres&perline=10" /></td></tr>
+<tr><td align="center"><b>Frontend</b></td>
+<td><img src="https://skillicons.dev/icons?i=react,tailwind,html,css&perline=10" /></td></tr>
+<tr><td align="center"><b>Backend</b></td>
+<td><img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask&perline=10" /></td></tr>
+<tr><td align="center"><b>Databases</b></td>
+<td><img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite&perline=10" /></td></tr>
+<tr><td align="center"><b>DevOps & Tools</b></td>
+<td><img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,vercel,postman,vscode&perline=10" /></td></tr>
+</table>
+
+**AI Integration:** `LLM APIs` · `Gemini` · `RAG` · `Vector Search` · `Prompt Engineering`
+
+---
+
+## 🚀 Featured Projects
+
+### 📚 StudyMate AI: RAG-Powered Study Tutor
+
+<a href="https://studymate-ai-tutor.vercel.app/"><img src="https://img.shields.io/badge/▶%20Live%20App-studymate--ai--tutor.vercel.app-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+
+> An AI tutor that answers **only from a student's own uploaded notes**, with citations, then quizzes them and tracks which topics are still weak.
+
+| Layer | What I built |
+| :-- | :-- |
+| 🎨 **Frontend** | React SPA for uploading notes, chatting with the tutor and taking quizzes |
+| 🔌 **Backend** | Node.js + Express REST API with JWT authentication |
+| 🧠 **AI / Retrieval** | Gemini embeddings + MongoDB Atlas Vector Search; answers grounded in uploaded notes with source citations |
+| 📝 **Learning loop** | AI-generated quizzes, server-side grading and a weak-topic dashboard |
+| 💳 **Payments** | Stripe subscription billing wired through webhooks |
+
+<p>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Express-404D59?style=flat-square&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB%20Atlas-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
+<img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" />
 </p>
 
 <br />
 
-## 📌 01 &nbsp;·&nbsp; About Me
+### 🛡️ SafeSQL: Text-to-SQL with Guardrails & Hallucination Detection
 
-<table>
-<tr>
-<td width="58%" valign="top">
+<a href="https://g52-web.vercel.app"><img src="https://img.shields.io/badge/▶%20Live%20App-g52--web.vercel.app-DB2777?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 
-I'm a **Full Stack Developer** and final-year Computer Science undergraduate who builds **end-to-end web applications**, from responsive React frontends to secure, scalable REST APIs and well-designed databases.
+> Ask a database questions in **plain English**. SafeSQL writes the SQL, but a layered safety stack makes sure it can't destroy data, leak other users' rows, or pass off a hallucinated answer as fact.
 
-I enjoy integrating **Large Language Models** into real products, designing clean backend architectures, and shipping apps that are fast, safe, and pleasant to use.
-
-- 🎓 B.Tech in Computer Science & Engineering, *Expected May 2027*
-- 🔬 Currently exploring: LLM-powered apps, RAG pipelines and AI guardrails
-- 🤝 Open to: **Full Stack / Software Engineering internships and new-grad roles**
-- 📫 Reach me at **Shendagesumit22@gmail.com**
-
-</td>
-<td width="42%" valign="top">
-
-```javascript
-const sumit = {
-  role:      "Full Stack Developer",
-  location:  "Kolhapur, India",
-  languages: ["JavaScript", "Python",
-              "Java", "C++", "SQL"],
-  frontend:  ["React", "Tailwind CSS"],
-  backend:   ["Node.js", "Express",
-              "FastAPI", "Flask"],
-  databases: ["PostgreSQL", "MySQL",
-              "MongoDB"],
-  ai:        ["LLMs", "LangChain", "RAG"],
-  motto:     "Build it clean. Ship it safe.",
-};
-```
-
-</td>
-</tr>
-</table>
-
-## 🧰 02 &nbsp;·&nbsp; Tech Stack
-
-| Category | Technologies |
+| Layer | What I built |
 | :-- | :-- |
-| **Languages** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white) |
-| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
-| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white) |
-| **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) |
-| **AI Integration** | ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![LLM APIs](https://img.shields.io/badge/LLM_APIs-412991?style=flat-square&logo=openai&logoColor=white) ![RAG](https://img.shields.io/badge/RAG-FF6F00?style=flat-square) |
-| **Tools & DevOps** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) |
+| 💬 **NL → SQL** | Schema-aware prompting that turns plain-English questions into SQL over any PostgreSQL schema |
+| 🔒 **Guardrails** | 4-layer safety stack: LLM refusal → AST query blocking (sqlglot) → read-only DB roles → per-user Row-Level Security |
+| 🧪 **Hallucination detection** | Validates generated SQL against the real schema and uses calibrated confidence scoring to flag unreliable answers |
+| 👤 **Multi-user** | Per-user login with user-scoped data access |
+| ⚙️ **Backend** | FastAPI service, containerised with Docker |
 
-## 🚀 03 &nbsp;·&nbsp; Featured Projects
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/sqlglot-FF6F00?style=flat-square" />
+<img src="https://img.shields.io/badge/LLMs-412991?style=flat-square" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+</p>
+
+---
+
+## 🎓 Education
 
 <table>
 <tr>
-<td width="50%" valign="top">
-
-### 📚 StudyMate AI: AI-Powered Study Assistant
-
-<a href="https://studymate-ai-tutor.vercel.app/"><img src="https://img.shields.io/badge/Live%20App-View%20Demo-2DD4BF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-
-![React](https://img.shields.io/badge/-React-20232A?style=flat-square) ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square) ![LLM](https://img.shields.io/badge/-LLM_API-412991?style=flat-square) ![Vector DB](https://img.shields.io/badge/-Vector_DB-FF6F00?style=flat-square)
-
-A full-stack study assistant that turns students' own notes and PDFs into **answers, summaries, quizzes and flashcards**.
-
-- 📄 **Document upload** for notes and PDFs, with Q&A, summaries, quizzes and flashcards generated from the student's own material
-- 🧠 **RAG pipeline**: chunking, embeddings and vector search keep every answer grounded in uploaded content
-- 🔌 **REST APIs** for upload, chat and quiz generation, with source-cited answers and context-aware follow-ups
-- 🎨 **Responsive React UI** for document management, interactive chat and revision
-
-</td>
-<td width="50%" valign="top">
-
-### 🛡️ Text-to-SQL Agent with Guardrails & Hallucination Detection
-
-<a href="https://g52-web.vercel.app"><img src="https://img.shields.io/badge/Live%20App-View%20Demo-2DD4BF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square) ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square)
-
-Ask questions in **plain English** and get accurate, **safe** SQL results without writing a single query.
-
-- 💬 **Natural language → SQL**: converts plain-English questions into accurate queries and returns results
-- 🗂️ **Schema-aware prompting**: feeds table and column metadata to the LLM for correct multi-table joins
-- 🔒 **Security guardrails**: read-only `SELECT` only, blocks `DROP` / `DELETE` / `UPDATE`, rejects prompt injection and off-topic input
-- 🧪 **Hallucination detection**: validates SQL against the live schema, catches fake tables or columns, and self-corrects before execution
-
+<td>🏛️</td>
+<td>
+<b>D.Y. Patil College of Engineering and Technology, Kolhapur</b><br/>
+B.Tech in Computer Science & Engineering · <i>Expected May 2027</i> · <b>CGPA 7.34 / 10</b> (till Sem 5)<br/>
+<sub>Coursework: DSA · DBMS (SQL & NoSQL) · Computer Networks · Web Technologies · Software Engineering · Operating Systems</sub>
 </td>
 </tr>
 </table>
 
-## 🎓 04 &nbsp;·&nbsp; Education
+## 🏅 Certifications
 
-> **D.Y. Patil College of Engineering and Technology, Kolhapur**
-> B.Tech in Computer Science & Engineering &nbsp;|&nbsp; *Expected May 2027* &nbsp;|&nbsp; **CGPA 7.34 / 10** (till 5th sem)
->
-> **Relevant coursework:** Data Structures & Algorithms · Database Management Systems (SQL & NoSQL) · Computer Networks · Web Technologies · Software Engineering · Operating Systems
+- 🧠 **Certificate of Training Completion in AI**, Deloitte Solutions Pvt. Ltd. · *Jun – Jul 2026*
+- 📈 **Data Science Virtual Internship (8 weeks)**, AICTE · EduSkills
+- 🐍 **Complete Python with DSA Bootcamp**, Udemy
 
-## 🏅 05 &nbsp;·&nbsp; Certifications & Achievements
+---
 
-| | Certification | Issued by |
-| :-: | :-- | :-- |
-| 🧠 | **Certificate of Training Completion in AI** (Jun 2026 – Jul 2026) | Deloitte Solutions Pvt. Ltd. |
-| 📈 | **Data Science Virtual Internship** (8 weeks) | AICTE · EduSkills |
-| 🐍 | **Complete Python With DSA Bootcamp** | Udemy |
-
-## 📊 06 &nbsp;·&nbsp; GitHub Analytics
+## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Sumitshendage&show_icons=true&hide_border=true&bg_color=0F2027&title_color=2DD4BF&icon_color=F59E0B&text_color=E2E8F0&rank_icon=percentile" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumitshendage&layout=donut&hide_border=true&bg_color=0F2027&title_color=2DD4BF&text_color=E2E8F0" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Sumitshendage&show_icons=true&hide_border=true&theme=tokyonight&title_color=A78BFA&icon_color=DB2777" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumitshendage&layout=compact&hide_border=true&theme=tokyonight&title_color=A78BFA" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Sumitshendage&hide_border=true&background=0F2027&ring=2DD4BF&fire=F59E0B&currStreakLabel=2DD4BF&sideLabels=E2E8F0&dates=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC" />
+  <img src="https://streak-stats.demolab.com?user=Sumitshendage&theme=tokyonight&hide_border=true&ring=7C3AED&fire=DB2777&currStreakLabel=A78BFA" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sumitshendage&bg_color=0F2027&color=E2E8F0&line=2DD4BF&point=F59E0B&area=true&area_color=2DD4BF&hide_border=true" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sumitshendage&theme=tokyo-night&hide_border=true&line=A78BFA&point=DB2777&area=true" />
 </p>
 
 ---
 
 <p align="center">
-  <i>"First, solve the problem. Then, write the code."</i> — John Johnson
+  <b>💬 Let's build something together.</b><br/>
+  <sub>Have an internship, a project or just a question? My inbox is open: <a href="mailto:Shendagesumit22@gmail.com">Shendagesumit22@gmail.com</a></sub>
 </p>
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=slice&height=110&section=footer&reversal=true&color=0:2C5364,50:203A43,100:0F2027" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:DB2777,50:7C3AED,100:4F46E5" />
 </p>
